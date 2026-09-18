@@ -1,5 +1,3 @@
-# Mushroom-Cultivation-Assistant
-
 # 🍄 Mushroom Cultivation Assistant
 
 A **Python-based Mushroom Cultivation Assistant** developed using **Tkinter GUI** to help mushroom growers with mushroom screening, substrate/material selection, problem diagnosis, cultivation guidance, and market price information.
